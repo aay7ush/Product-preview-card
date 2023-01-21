@@ -11,7 +11,7 @@ Building realistic projects to improve my front-end skills.
 
 ### Links
 
-- Live Site URL: [Product preview card Component](https://qr-c0de.netlify.app/)
+- Live Site URL: [Product preview card Component](https://product-prev1ew-card.netlify.app/)
 
 ## Built with
 
